@@ -1,2 +1,4 @@
-# curly-broccoli
-# curly-broccoli
+nccl初始化链路检查
+1、检测网卡功能是否正常
+2、pci节点是否降速、带宽降低
+3、nvlink节点是否处在活跃态
